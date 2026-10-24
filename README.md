@@ -8,3 +8,11 @@ git commit -m "提交标注”
 
 git remote add origin <仓库地址>
 
+
+
+git branch <分支名>
+
+git checkout <目标分支>
+
+
+
